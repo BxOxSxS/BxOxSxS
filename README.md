@@ -6,7 +6,7 @@
 </div>
 
 ## My Sponsors' logos:
-<img src="img/sponsor_logo1.jpg" width="150" title="MagicMonk7" alt="MagicMonk7">
+*currently none*
 
 ### You can support me through [GitHub Sponsors](https://github.com/sponsors/BxOxSxS)
 
