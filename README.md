@@ -10,3 +10,5 @@
 
 ### You can support me through [GitHub Sponsors](https://github.com/sponsors/BxOxSxS)
 
+### Or alternatively on [Ko-Fi](https://ko-fi.com/bxoxsxs):
+(Tiers from GitHub Sponsors apply there)
